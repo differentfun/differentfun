@@ -1,7 +1,7 @@
 # 👤 Different Fun
 
 Solo dev. No hype.  
-Languages: C++, PHP, JS, C#, .NET — whatever gets the job done.  
+Languages: C++, PHP, JS, C#, .NET, etc. — whatever gets the job done.  
 Tools: mine. Posted when useful. Shared when sharp.  
 
 > ~ root or nothing.
